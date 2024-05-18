@@ -4,8 +4,8 @@
 ![Generic badge](https://img.shields.io/badge/Development%3f-Ongoing-green.svg)
 ![Developer](https://img.shields.io/badge/Developer-ChristianJude23-blue)
 
-Continue?
-:3
+![image](https://github.com/ChristianJude23/YT-to-MP3/assets/152279955/73b7440c-6084-4107-b60e-07fca875e469)
+
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
