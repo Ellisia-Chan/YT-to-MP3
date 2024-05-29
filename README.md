@@ -12,5 +12,10 @@ None
 mp4 issues:
 Low Quality
 
+Redesign:
+
+![image](https://github.com/ChristianJude23/YT-to-MP3/assets/152279955/aa621526-1071-494f-a9ca-5ce5c646f907)
+
+
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 .
